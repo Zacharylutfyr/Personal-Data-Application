@@ -1,0 +1,8 @@
+Name : Project Data Famous People
+id:zacharyappdata
+password : 7(bbcj(vRBngh8yR&dTM
+
+Buat database baru
+nama database : db_data
+username database: zacharylutfyr
+password: Halamadrid_1998

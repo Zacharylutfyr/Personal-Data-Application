@@ -1,0 +1,42 @@
+3370056987450001
+Lionel Messi
+35
+01-Jan-87
+Laki-Laki
+Jl. Achmad Yani No 89 Jakarta Pusat
+Argentina
+
+3370056983690002
+Cristiano Ronaldo
+37
+02-May-85
+Laki-Laki
+Jl. Achmad Yani No 78 Jakarta Pusat
+Portugal
+
+3370056987450003
+Bambang Pamungkas
+40
+03-Jan-84
+Laki-Laki
+Jl. Achmad Yani No 67 Jakarta Pusat
+Indonesia
+
+3370056987450004
+Natasha Romanov
+33
+04-Jul-89
+Perempuan
+Jl. Achmad Yani No 56 Jakarta Pusat
+Rusia
+
+3370056987450005
+Entis Siti Jubaidah
+30
+05-Jan-92
+Jl. Achmad Yani No 45 Jakarta Pusat
+Malaysia
+
+
+
+ 
